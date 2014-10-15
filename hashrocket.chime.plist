@@ -5,7 +5,7 @@
     <key>KeepAlive</key>
     <true/>
     <key>Label</key>
-    <string>hashrocket.doorbell</string>
+    <string>hashrocket.chime</string>
     <key>ProgramArguments</key>
     <array>
       <string>/usr/bin/env</string>
@@ -16,10 +16,10 @@
     <key>RunAtLoad</key>
     <true/>
     <key>WorkingDirectory</key>
-    <string>/Users/dev/hashrocket/doorbell</string>
+    <string>/Users/dev/hashrocket/chime</string>
     <key>StandardOutPath</key>
-    <string>/tmp/doorbell-server.stdout</string>
+    <string>/tmp/chime-server.stdout</string>
     <key>StandardErrorPath</key>
-    <string>/tmp/doorbell-server.stderr</string>
+    <string>/tmp/chime-server.stderr</string>
   </dict>
 </plist>
